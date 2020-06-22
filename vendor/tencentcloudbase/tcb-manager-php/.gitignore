@@ -1,0 +1,10 @@
+
+.DS_Store
+.idea
+.vscode
+*.zip
+
+tests/.phpunit.result.cache
+tests/Services/Storage/data/tmp
+build
+vendor

@@ -1,0 +1,21 @@
+{
+    "name": "jialei/mini-game",
+    "description": "this is tencent mini game library",
+    "type": "library",
+    "require": {
+        "php": ">=7.0",
+        "tencentcloudbase/tcb-manager-php": "^1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "MiniGame\\" : "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jialei",
+            "email": "475523225@qq.com"
+        }
+    ]
+}
