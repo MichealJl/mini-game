@@ -1,5 +1,5 @@
 {
-    "name": "jialei/mini-game",
+    "name": "jialei/tcb-mini-game",
     "description": "this is tencent mini game library",
     "type": "library",
     "require": {
